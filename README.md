@@ -16,3 +16,5 @@ To interact with TeleChuck_bot you can send it the following commands:
 
 `/help` or `/start`: TeleChuck_bot will provide information about it's capabilities and functionalities.
 
+## Code:
+To use the TeleChuck_bot code you first must install the 
