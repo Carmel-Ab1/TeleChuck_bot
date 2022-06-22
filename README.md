@@ -20,3 +20,6 @@ To interact with TeleChuck_bot you can send it the following commands:
 To use the TeleChuck_bot code you first must install the [telebot](https://github.com/eternnoir/pyTelegramBotAPI) and the [bs4](https://pypi.org/project/beautifulsoup4/) libraries.
 
 Now to run the code - simply run `python main.py`.
+
+### About the project's structure:
+ldfjslfjs
