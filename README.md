@@ -17,4 +17,4 @@ To interact with TeleChuck_bot you can send it the following commands:
 `/help` or `/start`: TeleChuck_bot will provide information about it's capabilities and functionalities.
 
 ## Code:
-To use the TeleChuck_bot code you first must install the 
+To use the TeleChuck_bot code you first must install the [telebot](https://github.com/eternnoir/pyTelegramBotAPI) and the [bs4](https://pypi.org/project/beautifulsoup4/).
