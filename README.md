@@ -2,10 +2,10 @@
 A telegram bot that tells Chuck Norris Jokes.
 
 ## How to use TeleChuck_bot?
-To use TeleChuck_bot you can simply DM it or add it to groups. You may find it on this link: https://t.me/TeleChuck_bot.
+To use TeleChuck_bot you can simply DM it or add it to groups. You may find it [here](https://t.me/TeleChuck_bot).
 
 ## What can TeleChuck_bot do?
-TeleChuck_bot can tell Chuck Norris jokes provided by the list: https://parade.com/968666/parade/chuck-norris-jokes/.
+TeleChuck_bot can tell Chuck Norris jokes provided by the [list](https://parade.com/968666/parade/chuck-norris-jokes/).
 
 
 To interact with TeleChuck_bot you can send it the following commands:
@@ -22,4 +22,4 @@ To use the TeleChuck_bot code you first must install the [telebot](https://githu
 Now to run the code - simply run `python main.py`.
 
 ### About the project's structure:
-ldfjslfjs
+
