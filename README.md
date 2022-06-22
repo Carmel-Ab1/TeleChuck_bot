@@ -9,7 +9,6 @@ TeleChuck_bot can tell Chuck Norris jokes provided by the list: https://parade.c
 
 To interact with TeleChuck_bot you can send it the following commands:
 
-</br>
 `gimme` (short of give-me): TeleChuck_bot will randomly reply this message with one of it's jokes.
 `gimme <x>`: TeleChuck_bot will reply this message with the corresponding joke. Note that `x` must be an integer between 1 and 101 (inclusive). 
 `/help` or `/start`: TeleChuck_bot will provide information about it's capabilities and functionalities.
