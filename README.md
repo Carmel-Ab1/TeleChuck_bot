@@ -6,6 +6,7 @@ To use TeleChuck_bot you can simply DM it or add it to groups. You may find it o
 
 ## What can TeleChuck_bot do?
 TeleChuck_bot can tell Chuck Norris jokes provided by this list: https://parade.com/968666/parade/chuck-norris-jokes/.
+\n
 To interact with TeleChuck_bot you can send it the following commands:
 
 `gimme` (short of give-me): TeleChuck_bot will randomly reply this message with one of it's jokes.
