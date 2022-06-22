@@ -35,6 +35,6 @@ It uses the telebot library and defines the behavior of the bot in the case of r
 It uses the b64 library and loads (one time) all the jokes into a local list and then returns the corresponding joke from it.
 
 To scrape only the jokes it takes only the phrases between `<li> </li>` tags that are also contain either 'Chuck' or 'Norris'.
-<br/>
-<br/>
+
+
 TeleChuck_bot is currently running from an AWS-ec2.
