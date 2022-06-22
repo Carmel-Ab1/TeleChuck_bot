@@ -2,7 +2,7 @@ import random
 import telebot
 import jokepuller
 
-TOKEN = '5472600721:AAFkP9FdpKA-oIDKYYWgC2IvnldNQ6PE4Cs'
+TOKEN = 'YOUR_TOKEN_HERE'
 HELP_MESSAGE='Hi! I am TeleChuck_bot.\n' \
 			 'You can interact with me using the following commands: \n\n' \
 			 'gimme <id> - I will reply you back with a Chuck Norris joke with the specidied id - <id> must fulfill 1<=id<=101 as there is only limited amount of Chuck Norris jokes (unfortunately).\n\n' \
