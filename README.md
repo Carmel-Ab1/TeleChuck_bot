@@ -23,7 +23,7 @@ Now to run the code - simply run `python main.py`.
 
 ### About the project's structure:
 
-I have created two files two perform the operation:
+I have created two files to perform the operation:
 
 **main.py** that is responsible for the Telegram comunication.
 It uses the telebot library and defines the behavior of the bot in the case of receiving certain messages (with those `message_handler`s).
