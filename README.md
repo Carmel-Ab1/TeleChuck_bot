@@ -2,4 +2,4 @@
 A telegram bot that tells Chuck Norris' Jokes.
 
 
-To use $TeleChuck_bot$
+To use #eleChuck_bot#
