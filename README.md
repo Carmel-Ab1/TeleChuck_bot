@@ -31,4 +31,5 @@ It uses the telebot library and defines the behavior of the bot in the case of r
 **jokepuller.py** that scrapes the actual jokes from the provided website.
 
 It uses the b64 library and loads once all the jokes into a local list and then returns the corresponding joke from it.
+
 To scrape only the jokes it takes only the phrases between `<li> </li>` tags that are also contain either 'Chuck' or 'Norris'.
