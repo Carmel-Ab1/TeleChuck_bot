@@ -29,6 +29,7 @@ I have created two files to perform the operation:
 It uses the telebot library and defines the behavior of the bot in the case of receiving certain messages (with those `message_handler`s).
 
 
+
 **jokepuller.py** that scrapes the actual jokes from the provided website.
 
 It uses the b64 library and loads (one time) all the jokes into a local list and then returns the corresponding joke from it.
